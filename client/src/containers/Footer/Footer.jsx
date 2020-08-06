@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 
-class NoMatch extends Component {
+class Footer extends Component {
   render() {
     return (
       <div>
-        <h1>404: Not Found</h1>
+        <h1>This is my footer. </h1>
       </div>
     );
   }
 }
 
-export default NoMatch;
+export default Footer;
