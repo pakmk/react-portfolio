@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import profile from "../../assets/images/profile.png";
+import "../../styles/style.css";
 
 class Home extends Component {
   render() {
