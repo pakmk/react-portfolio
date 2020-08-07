@@ -9,6 +9,10 @@ class Footer extends Component {
             <div className="row mt-3 dark-grey-text">
               <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                 <h6 className="text-uppercase font-weight-bold">Projects</h6>
+                <hr
+                  class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto"
+                  style={{ width: "60px" }}
+                />
                 <p>
                   <a
                     className="dark-grey-text"
@@ -30,6 +34,10 @@ class Footer extends Component {
                 <h6 className="text-uppercase font-weight-bold">
                   GitHub Works
                 </h6>
+                <hr
+                  class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto"
+                  style={{ width: "60px" }}
+                />
                 <p>
                   <a
                     className="dark-grey-text"
@@ -67,6 +75,10 @@ class Footer extends Component {
                 <h6 className="text-uppercase font-weight-bold">
                   Useful links
                 </h6>
+                <hr
+                  class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto"
+                  style={{ width: "60px" }}
+                />
                 <p>
                   <a className="dark-grey-text" href="https://github.com/pakmk">
                     Github
@@ -91,6 +103,10 @@ class Footer extends Component {
               </div>
               <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                 <h6 className="text-uppercase font-weight-bold">Contact</h6>
+                <hr
+                  class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto"
+                  style={{ width: "60px" }}
+                />
                 <p>
                   <i className="fas fa-home mr-3">Atlanta, GA</i>
                 </p>

@@ -8,6 +8,7 @@ class Home extends Component {
         <main>
           <div className="jumbotron">
             <h1>About Me</h1>
+            <hr />
             <div className="row">
               <div>
                 <img
