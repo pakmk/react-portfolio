@@ -3,9 +3,9 @@ import axios from "axios";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./containers/Home/Home";
 import NoMatch from "./containers/NoMatch/NoMatch";
-import NavBar from "./containers/NavBar/NavBar";
+import NavBar from "./components/NavBar/NavBar";
 import Portfolio from "./containers/Portfolio/Portfolio";
-import Footer from "./containers/Footer/Footer";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   useEffect(() => {
