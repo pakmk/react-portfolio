@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import profile from "../../assets/images/profile.png";
+import "../../styles/style.css";
 
 class Home extends Component {
   render() {
@@ -8,6 +9,7 @@ class Home extends Component {
         <main>
           <div className="jumbotron">
             <h1>About Me</h1>
+            <hr />
             <div className="row">
               <div>
                 <img
