@@ -29,6 +29,14 @@ class Footer extends Component {
                     Creative Meet Website
                   </a>
                 </p>
+                <p>
+                  <a
+                    className="dark-grey-text"
+                    href="https://gt-play-date.herokuapp.com/"
+                  >
+                    PlayDate Website
+                  </a>
+                </p>
               </div>
               <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                 <h6 className="text-uppercase font-weight-bold">
