@@ -95,7 +95,7 @@ class Footer extends Component {
                 <p>
                   <a
                     className="dark-grey-text"
-                    href="https://docs.google.com/document/d/1qmj_FqxaRRuYlSqluJ7mZnXgpMqKisZqN48nMKm8Ik0/edit?usp=sharing"
+                    href="https://docs.google.com/document/d/1fYgk5ej-ic9HbMZJnhQuHNC552CURfuHSZTBUYaQ9Jw/edit?usp=sharing"
                   >
                     Resume
                   </a>
