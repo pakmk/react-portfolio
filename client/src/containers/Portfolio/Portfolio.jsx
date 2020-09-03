@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import freezer from "../../assets/images/freezer.png";
 import creativemeet from "../../assets/images/creativemeet.png";
+import playdate from "../../assets/images/playdate.png";
 import "../../styles/style.css";
 
 class Home extends Component {
@@ -44,6 +45,23 @@ class Home extends Component {
                   href="https://github.com/pakmk/gt-project2"
                 >
                   Creative Meet Github Repo
+                </a>
+              </div>
+              <div className="col-sm-6">
+                <p className="projects">Project Three (PlayDate)</p>
+                <img src={playdate} alt="" style={{ width: "100%" }} />
+                <a
+                  className="dark-grey-text"
+                  href="https://gt-play-date.herokuapp.com/"
+                >
+                  PlayDate Website
+                </a>
+                <br />
+                <a
+                  className="dark-grey-text"
+                  href="https://github.com/pakmk/PlayDate"
+                >
+                  PlayDate Github Repo
                 </a>
               </div>
             </div>
