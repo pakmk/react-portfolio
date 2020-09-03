@@ -23,7 +23,7 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route path="/" component={Portfolio} />
+        <Route path="/portfolio" component={Portfolio} />
         <Route component={NoMatch} />
       </Switch>
       <Footer/>
