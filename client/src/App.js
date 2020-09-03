@@ -23,10 +23,10 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route path="/portfolio" component={Portfolio} />
+        <Route exact path="/portfolio" component={Portfolio} />
         <Route component={NoMatch} />
       </Switch>
-      <Footer/>
+      <Footer />
     </Router>
   );
 }
